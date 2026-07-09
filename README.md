@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0819-most-common-word) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1018-binary-prefix-divisible-by-5) |
